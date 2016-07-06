@@ -99,7 +99,7 @@ nickKirkes.married = false;
 nickKirkes.vocation = "Project Manager at Salesforce"
 nickKirkes.yearsKnown = 20;
 
-var hansKloepfer = Object.create(friend);
+var hansKloepferp = Object.create(friend);
 hansKloepfer.fullName = "Hans Kloepfer";
 hansKloepfer.age = 42;
 hansKloepfer.married = false;
